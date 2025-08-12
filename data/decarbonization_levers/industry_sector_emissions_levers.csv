@@ -1,0 +1,38 @@
+﻿Sector,Emissions Source,Value Chain Step,Lever,Abatement Cost Low ($/t CO2),Abatement Cost High ($/t CO2),Abatement MT,% Share of Sector Abatement Potential
+Glass,Heat,"Annealing, Melting, and Fining",Biomethane,125,550,0.5,5
+Glass,Heat,"Annealing, Melting, and Fining",Electrification,300,400,1,10
+Glass,Heat,"Annealing, Melting, and Fining",Waste heat recovery,-100,0,0.5,5
+Glass,Heat,"Annealing, Melting, and Fining",Oxyfuel,10,140,0.5,5
+Glass,Heat,"Annealing, Melting, and Fining",Clean hydrogen,190,550,0.5,5
+Glass,Heat,"Annealing, Melting, and Fining",CCS,140,290,2,15
+Glass,Production,Batch and Mix,Electrification,-40,50,1,10
+Glass,Electricity (Off-site),Forming,Grid decarbonization,N/A,N/A,5,40
+Aluminum,Heat,Refining,Energy efficiency,-10,10,1,5
+Aluminum,Heat,Refining,Electrification,-10,10,0.5,2.5
+Aluminum,Heat,Smelting,Energy efficiency,-15,5,0.5,2.5
+Aluminum,Electricity (Off-site),Smelting,Grid decarbonization,N/A,N/A,8,50
+Aluminum,Production,Smelting,CCS,140,290,2,10
+Aluminum,Heat,"Rolling, Extrusion, and Casting",Energy efficiency,-15,5,0.5,2.5
+Aluminum,Production,"Rolling, Extrusion, and Casting",Electrification,20,40,1,5
+Aluminum,Heat,"Rolling, Extrusion, and Casting",Raw material substitution,-40,-20,0.5,2.5
+Food & Beverage,Heat,Steam,Energy efficiency,-100,0,4,5
+Food & Beverage,Heat,Steam,Electrification,40,70,25,30
+Food & Beverage,Heat,Process heating,Electrification,60,105,10,10
+Food & Beverage,Heat,Process heating,Alternative fuels,100,100,0.5,2.5
+Food & Beverage,Electricity (Off-site),Process cooling & other,Energy efficiency,-100,0,2,5
+Food & Beverage,Electricity (Off-site),Process cooling & other,Grid decarbonization,N/A,N/A,45,51
+Chemicals,Heat,Steam for Ethylene,Electrification,40,70,10,5
+Chemicals,Heat,Fuel for Ethylene,Energy efficiency,-120,-80,2.5,2.5
+Chemicals,Heat,Heat for Chlor-alkali,Electrification,40,60,70,25
+Chemicals,Heat,Steam cracking for Ethylene,CCS,145,180,55,20
+Chemicals,Heat,Combustion for ammonia,CCS,110,140,20,5
+Chemicals,Production,CO2 for NGP,CCS,-25,-10,15,5
+Chemicals,Production,Electrolysis,Clean hydrogen,-60,50,15,5
+Chemicals,Electricity (On-site),Electricity,Onsite power and storage,30,70,5,2.5
+Chemicals,Electricity (On-site),Electricity,Compressor electrification,-50,-30,20,5
+Steel,Heat,Finishing,Energy efficiency,-100,-10,20,10
+Steel,Heat,"Atmospheric Distillation, FCC, and Hydrotreating",CCS,90,130,70,30
+Steel,Production,Steam methane reforming,CCS,80,120,20,10
+Steel,Production,Steam methane reforming,Clean hydrogen,-65,45,15,5
+Steel,Electricity (On-site),Electricity,Onsite CHP,110,130,35,15
+Steel,Electricity (Off-site),Electricity,Grid decarbonization,N/A,N/A,15,5
