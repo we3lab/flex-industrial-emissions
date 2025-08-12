@@ -1,5 +1,7 @@
-# flex-limits
+# flex-industrial-emissions
 This repository contains analysis to estimate the emissions savings potential of energy-flexible operation for example industrial load (e.g. EAF steel, refrigerated warehouse). 
+
+It leverages code from prior work from (add Rao/Chapin citation) in the codebase flex-limits (https://github.com/we3lab/flex-limits)
 
 
 ## Installation instructions
