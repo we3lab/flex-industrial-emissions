@@ -1,6 +1,7 @@
 # Data folders
-anonymized-1in2-midDemand-with_EE_FS-2030/
-anonymized-1in2-midDemand-with_EE_FS-2050/
+lbnl/phase4_data_release/
+data/loadshapes/lbnl/phase4_data_release/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
