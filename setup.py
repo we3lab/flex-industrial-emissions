@@ -35,7 +35,7 @@ requirements = [
     "pint>=0.19.2",
     "matplotlib>=3.8.4",
     "ipykernel",
-    "electric-emission-cost>=0.0.1",
+    "electric-emission-cost>=0.0.1"
 ]
 
 extra_requirements = {

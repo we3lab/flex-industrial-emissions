@@ -1,3 +1,4 @@
 Notes on data sources: https://docs.google.com/document/d/1oXAexNp8-rgjsHZKLSQ_HA_DsmGHiHaR9hx0U2SG40o/edit?usp=sharing
 
-Download link for LBNL phase4_data_release: https://buildings.lbl.gov/download-page-phase-4-final-report-shed-and-shift-resources-through-2050
+LBNL phase4_data_release: https://buildings.lbl.gov/download-page-phase-4-final-report-shed-and-shift-resources-through-2050
+Direct link to Google Drive for download: https://drive.google.com/drive/folders/1fHVKPvcqGj-AfWA8k3-GQ9995ZVJpjKU?usp=share_link
